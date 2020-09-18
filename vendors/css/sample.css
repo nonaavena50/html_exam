@@ -77,7 +77,7 @@ header ul:after{
   padding: 30px;
 }
 footer{
-  background-color: #888888;
+  background-color: #283b4b;
   height: 10px;
   width: 100%;
   position: absolute;
@@ -86,6 +86,7 @@ footer{
   padding-top: 20px;
 }
 footer p{
+  color: #fff;
   font-size: 10px;
 
 }
